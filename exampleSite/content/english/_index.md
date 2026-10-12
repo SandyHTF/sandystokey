@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Let's Talk"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate?aff=hugoplate"
+    link: "mailto:sandrastokey@gmail.com?subject=Site%Mail"
 
 # Features
 features:
