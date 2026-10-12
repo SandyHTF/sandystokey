@@ -1,14 +1,14 @@
 ---
 # Banner
 banner:
+ banner:
   title: "SANDRA STOKEY"
-  content: "Web Content Manager • Digital Content Architect • Accessibility Specialist
-Remote Contract & Project Support"
+  content: "Web Content Manager • Digital Content Architect • Accessibility Specialist | Remote Contract & Project Support"
   image: "/images/banner.png"
   button:
     enable: true
     label: "Let's Talk 🚀"
-    link: "a href="mailto:you@example.com?subject=Hello"
+    link: "mailto:you@example.com?subject=Hello"
 
 # Features
 features:
