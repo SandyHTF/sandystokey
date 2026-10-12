@@ -7,7 +7,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Let's Talk 🚀"
+    label: "Let's Talk"
     link: "mailto:you@example.com?subject=Hello"
 
 # Features
