@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Sandra Stokey"
-  content: "Web Content Manager • Digital Content Architect • Accessibility Specialist 
+  content: "Web Content Manager • Digital Content Architect • Accessibility Specialist  
   Remote Contract & Project Support"
   image: "/images/banner.png"
   button:
