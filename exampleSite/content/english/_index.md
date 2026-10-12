@@ -16,7 +16,16 @@ features:
     content: "I help government agencies, municipalities, and enterprise organizations build, clean, and govern high-performing websites and digital platforms.
 With over two decades leading web modernization, digital content strategy, and accessibility compliance for large-scale public entities, I provide end-to-end digital stewardship. Known for stepping up to fill technical and operational vacuums—whether leading a complex enterprise migration, designing responsive mobile interfaces, bridging native app content gaps, or providing steady hands-on CMS management—I deliver clean, resilient digital infrastructure.
 Core Philosophy: Zero bloat. Total accessibility. Content that works seamlessly for human users, mobile devices, and modern search systems.
-    
+      - "10+ Pre-build pages"
+      - "95+ Google Pagespeed Score"
+      - "Build with Hugo and TailwindCSS for easy and customizable styling"
+      - "Fully responsive on all devices"
+      - "SEO-optimized for better search engine rankings"
+      - "**Open-source and free** for personal and commercial use"
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
 
   - title: "Discover the Key Features Of Hugo"
     image: "/images/service-2.png"
