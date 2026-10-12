@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Let's Talk"
-    link: "mailto:sandrastokey@gmail.com?subject=Site%Mail"
+    link: "mailto:sandrastokey@gmail.com?subject=Site Mail"
 
 # Features
 features:
